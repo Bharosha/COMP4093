@@ -1,0 +1,4 @@
+(executable
+ (public_name BasicRecord)
+ (name main)
+ (libraries BasicRecord))
